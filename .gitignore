@@ -1,0 +1,15 @@
+
+# Compiled executables
+race
+cs
+atomic
+barrier
+semaphore
+compare_sync
+
+# Object files
+*.o
+
+# Temporary editor files
+*~
+*.tmp
