@@ -130,5 +130,5 @@ The experiment demonstrates that synchronization is essential for correctness wh
 
 ## Reproducibility
 
-The recorded timings describe one execution environment and can vary with processor architecture, compiler version, thread scheduling, and system load. The source files and benchmark results should be considered together when interpreting the experiment.
+The recorded timings describe one execution environment and can vary with processor architecture, compiler version, thread scheduling, and system load. The source files and benchmark results should be considered together when interpreting the experiment..
 
